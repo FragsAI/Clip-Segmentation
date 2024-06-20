@@ -1,5 +1,5 @@
 **How to complete the task**
-- Fork this repository and complete the task by March 25th.
+- Fork this repository and complete the task by June 27th.
 
 # Video Segmentation Tool
 
